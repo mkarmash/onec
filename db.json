@@ -11,5 +11,11 @@
       "ext_model_id": 1753,
       "ext_generation_id": 6497
     }
+  ],
+  "posts": [
+    {
+    "id": 1,
+    "post": null
+    }
   ]
 }
