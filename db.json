@@ -1,31 +1,15 @@
 {
-  "posts": [
+  "car": [
     {
       "id": 1,
-      "title": "Post 1"
-    },
-    {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
+      "vin": "1NXBU4EE1AZ245677",
+      "year": 2009,
+      "is_right_hand": false,
+      "is_gas": false,
+      "ext_modification_id": null,
+      "ext_mark_id": 171,
+      "ext_model_id": 1753,
+      "ext_generation_id": 6497
     }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
