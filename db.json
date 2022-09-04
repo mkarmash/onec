@@ -2,20 +2,25 @@
   "car": [
     {
       "id": 1,
-      "vin": "1NXBU4EE1AZ245677",
-      "year": 2009,
+      "vin": "MX1D841CBKK884832",
+      "year": 2019,
       "is_right_hand": false,
       "is_gas": false,
-      "ext_modification_id": null,
-      "ext_mark_id": 171,
-      "ext_model_id": 1753,
-      "ext_generation_id": 6497
-    }
-  ],
-  "posts": [
+      "ext_modification_id": 48638,
+      "ext_mark_id": 76,
+      "ext_model_id": 791,
+      "ext_generation_id": 6076
+    },
     {
-    "id": 1,
-    "post": null
+      "id": 2,
+      "vin": "JTHBT1GG502050498",
+      "year": 2017,
+      "is_right_hand": false,
+      "is_gas": false,
+      "ext_modification_id": 28992,
+      "ext_mark_id": 95,
+      "ext_model_id": 984,
+      "ext_generation_id": 3067
     }
   ]
 }
